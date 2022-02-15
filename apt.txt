@@ -2,3 +2,5 @@ gnuplot
 ghostscript
 octave
 octave-optim
+octave-ltfat
+octave-odepkg
