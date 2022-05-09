@@ -1,4 +1,4 @@
-# Numerical Methods in Matlab/Octave
+# Octave/Matlab for Scientific Computing
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nmfsc/octave/main?filepath=octave.ipynb)
 [![Amazon](https://img.shields.io/badge/Buy%20the%20book-on%20Amazon-lightgrey?style=flat)](https://www.amazon.com/dp/B09VFRYB4W)
